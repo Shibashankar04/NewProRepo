@@ -5,3 +5,5 @@ i am well versed with automation and manual.
 I am having 3Yrs of experience into QA.
 
 I am having good expouser to selenium with java.
+
+We are using datadriven,pom,testng to create our framework.
