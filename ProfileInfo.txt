@@ -8,7 +8,7 @@ I am having good expouser to selenium with java.
 
 Currently i am client towards open source technology.
 
-We are using datadriven,pom,testng to create our framework.
+We are using datadriven,pom,testng to create our framework to achive the result.
 
 My prefered language is java always.
 My prefered language is python.
