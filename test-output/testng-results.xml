@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="117224" started-at="2019-10-27T10:19:05 IST" finished-at="2019-10-27T10:21:02 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="117224" started-at="2019-10-27T10:19:05 IST" finished-at="2019-10-27T10:21:02 IST">
+      <class name="com.may.maven.SecondTest">
+        <test-method status="PASS" signature="findName()[pri:0, instance:com.may.maven.SecondTest@4d95d2a2]" name="findName" duration-ms="9333" started-at="2019-10-27T10:20:53 IST" finished-at="2019-10-27T10:21:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findName -->
+      </class> <!-- com.may.maven.SecondTest -->
+      <class name="com.may.maven.Facebook">
+        <test-method status="PASS" signature="facebookLogin()[pri:0, instance:com.may.maven.Facebook@1e965684]" name="facebookLogin" duration-ms="107822" started-at="2019-10-27T10:19:05 IST" finished-at="2019-10-27T10:20:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookLogin -->
+      </class> <!-- com.may.maven.Facebook -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
